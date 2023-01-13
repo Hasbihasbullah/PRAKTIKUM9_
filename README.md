@@ -3,7 +3,8 @@
 PRAKTIKUM9
 Pemrograman Orientasi Objek
 #   Nama   : HASBI HASBULLAH
-#   Nim    : 312110478
+#   Nim    : 312110094
+#   Kelas  : TI.21.C.1
 #   Matkul : Pemrograman Orientasi Objek
 
 
